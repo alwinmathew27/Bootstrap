@@ -1,0 +1,10 @@
+@media (max-width: 500px) {
+  .carousel {
+    display: none;
+  }
+}
+@media (max-width: 576px) {
+  .item-container {
+    text-align: center;
+  }
+}
